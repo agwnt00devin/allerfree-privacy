@@ -7,7 +7,7 @@ AllerFree is a mobile app that helps users identify potential allergens by scann
 
 ## URL
 Once set up, the policy will be accessible at:  
-`https://yourusername.github.io/allerfree-privacy`
+`https://agwnt00devin.github.io/allerfree-privacy`
 
 ## Contact
 For questions, email: admin@munchcompany.com
