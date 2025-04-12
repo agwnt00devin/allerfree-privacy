@@ -59,6 +59,6 @@ We may update this policy as needed. Changes will be posted at this URL, and con
 ## 9. Contact Us
 For questions or concerns:
 - **Email**: admin@munchcompany.com
-- **Website**: [Insert your website, e.g., https://munchcompany.com]
+
 
 MUNCH COMPANY
